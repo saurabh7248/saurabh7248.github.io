@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello,
- I am Saurabh Chaudhari, Software Engineer @ eQ Technologic and a avid Reddit reader.
+ I am Saurabh Chaudhari, Software Engineer @ eQ Technologic and an avid Reddit reader.
 
 Intrests
 ======
