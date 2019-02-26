@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LDA on Wikipedia Articles"
+excerpt: "In this project I performed LDA on article in Wikipedia. LDA is a unsupervised topic modelling algorithm.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
